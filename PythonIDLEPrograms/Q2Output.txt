@@ -1,0 +1,3 @@
+a. the list of years  ['2019', '2015', '2018', '2000']
+b. Count:  4 , Maximum:  2019 , Minimum:  2000
+c. The new string:  sam works in a company abc in new york. _e joined t_e company last year 2019. before joining abc, _e used to work for a small firm in arizona. _e worked t_ere from 2015 to 2018. before moving to arizona sam used to live in sout_ dakota and _e _as been living t_ere since 2000's.

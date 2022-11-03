@@ -1,0 +1,6 @@
+L1 : Number of states- 4
+L2 : Number of states- 2
+L3 : Number of states- 3
+L4 : Number of states- 4
+L5 : Number of states- 1
+L6 : Number of states- 3
