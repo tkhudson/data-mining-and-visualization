@@ -7,3 +7,4 @@
  - Anaconda
  - Python
  - R
+ - Jupyter Notebook
