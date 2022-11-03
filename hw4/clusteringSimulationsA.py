@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 22 08:44:47 2019
 
-@author: rm84
+@author: tyler
 """
 import pandas as pd
 import random
