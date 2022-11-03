@@ -1,0 +1,3 @@
+Python CIS3389 has 3 exams.
+CIS3389 has 3 assignments.
+This course has a term-project. 

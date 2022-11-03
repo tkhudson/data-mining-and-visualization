@@ -1,0 +1,2 @@
+The course CIS3389 focuses on python programming.
+Python programming is taught in CIS3389 course.
